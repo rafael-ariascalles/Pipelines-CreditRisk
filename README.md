@@ -1,2 +1,5 @@
-# Pipelines-CreditRisk
-Demostration of diferrent type of model for Credit Risk estimation, This modules also shows the use of Sklearn pipelines and different data wrangling problems
+# Credit Risk modelling using Machine Learning
+
+Usage of machine learning and other techniques to model the probability of Default in a geven time.
+
+Example of Sklearn API and Keras integration
